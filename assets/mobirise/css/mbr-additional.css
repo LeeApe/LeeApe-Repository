@@ -1022,8 +1022,8 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-qTkAaeaxX5 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 45px;
+  padding-bottom: 15px;
   background-color: #073b4c;
 }
 @media (max-width: 767px) {
@@ -1093,4 +1093,5 @@ section.lazy-placeholder:after {
 }
 .cid-qTkAaeaxX5 P {
   color: #ffffff;
+  text-align: left;
 }
